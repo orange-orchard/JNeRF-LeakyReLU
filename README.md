@@ -1,14 +1,6 @@
 ## PRML JNeRF-LeakyReLU
 This project is base on JNeRF. I modified the model structure slightly to achive a better performance on small steps of Instant-NGP.
 
-### 1000 iterations training of Instant-NGP implemented by JNeRF
-
-#### Baseline
-<img src="docs/baseline.gif" width="300"/>
-
-#### Ours
-<img src="docs/ours.gif" width="300"/>
-
 ## Install
 JNeRF environment requirements:
 
